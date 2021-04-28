@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/deploy-react-test-FBI/static/css/main.69c16542.chunk.css",
-    "main.js": "/deploy-react-test-FBI/static/js/main.54361d45.chunk.js",
-    "main.js.map": "/deploy-react-test-FBI/static/js/main.54361d45.chunk.js.map",
+    "main.js": "/deploy-react-test-FBI/static/js/main.bd9b4a09.chunk.js",
+    "main.js.map": "/deploy-react-test-FBI/static/js/main.bd9b4a09.chunk.js.map",
     "runtime-main.js": "/deploy-react-test-FBI/static/js/runtime-main.4b4fe9e5.js",
     "runtime-main.js.map": "/deploy-react-test-FBI/static/js/runtime-main.4b4fe9e5.js.map",
     "static/css/2.aeaa2a60.chunk.css": "/deploy-react-test-FBI/static/css/2.aeaa2a60.chunk.css",
-    "static/js/2.633d4534.chunk.js": "/deploy-react-test-FBI/static/js/2.633d4534.chunk.js",
-    "static/js/2.633d4534.chunk.js.map": "/deploy-react-test-FBI/static/js/2.633d4534.chunk.js.map",
+    "static/js/2.5fbf4c21.chunk.js": "/deploy-react-test-FBI/static/js/2.5fbf4c21.chunk.js",
+    "static/js/2.5fbf4c21.chunk.js.map": "/deploy-react-test-FBI/static/js/2.5fbf4c21.chunk.js.map",
     "index.html": "/deploy-react-test-FBI/index.html",
     "static/css/2.aeaa2a60.chunk.css.map": "/deploy-react-test-FBI/static/css/2.aeaa2a60.chunk.css.map",
     "static/css/main.69c16542.chunk.css.map": "/deploy-react-test-FBI/static/css/main.69c16542.chunk.css.map",
-    "static/js/2.633d4534.chunk.js.LICENSE.txt": "/deploy-react-test-FBI/static/js/2.633d4534.chunk.js.LICENSE.txt",
-    "static/js/main.54361d45.chunk.js.LICENSE.txt": "/deploy-react-test-FBI/static/js/main.54361d45.chunk.js.LICENSE.txt",
+    "static/js/2.5fbf4c21.chunk.js.LICENSE.txt": "/deploy-react-test-FBI/static/js/2.5fbf4c21.chunk.js.LICENSE.txt",
+    "static/js/main.bd9b4a09.chunk.js.LICENSE.txt": "/deploy-react-test-FBI/static/js/main.bd9b4a09.chunk.js.LICENSE.txt",
     "static/media/alfons-morales.jpg": "/deploy-react-test-FBI/static/media/alfons-morales.a447b5b8.jpg",
     "static/media/antoine-barres.jpg": "/deploy-react-test-FBI/static/media/antoine-barres.bc3299c2.jpg",
     "static/media/ayo-ogunseinde-2.jpg": "/deploy-react-test-FBI/static/media/ayo-ogunseinde-2.f4af8f2c.jpg",
@@ -38,8 +38,8 @@
   "entrypoints": [
     "static/js/runtime-main.4b4fe9e5.js",
     "static/css/2.aeaa2a60.chunk.css",
-    "static/js/2.633d4534.chunk.js",
+    "static/js/2.5fbf4c21.chunk.js",
     "static/css/main.69c16542.chunk.css",
-    "static/js/main.54361d45.chunk.js"
+    "static/js/main.bd9b4a09.chunk.js"
   ]
 }
